@@ -1,2 +1,2 @@
 # weatherapp
-i developed this by html css &amp; js to fetch api
+i developed this by html css and js to fetch api
